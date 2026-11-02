@@ -29,4 +29,4 @@ Contact
 
 - Gaston Luca Castillo Moro ([@g-castillomoro](https://github.com/g-castillomoro)), Universidad Nacional de Córdoba, Córdoba, Argentina (gaston.castillom22@gmail.com / gaston.castillomoro@mi.unc.edu.ar)
 
-Last update: August 20, 2026
+Last update: November 2, 2026
