@@ -1,7 +1,7 @@
 # Network-Informed Mutational Target Size Calculator (NI-MTSCal)
 [![DOI](https://zenodo.org/badge/742026573.svg)](https://doi.org/10.5281/zenodo.23886429)
 
-This is a **repository of the code created by Gaston Luca Castillo Moro**, as part of Tobares et. al. (2025). Its aim is to provide a **readily-accessible tool** for researchers, even for those who may not be well-versed in coding, to apply the mechanistic model in Lind et. al. (2019), straightforwardly to their objects of study with **basic Python knowledge**, with small corrections done as part of this work. This is done in the spirit of spreading and **showcasing the potential of mechanistic models** for investigations on genomic architecture and predictability of adaptation/evolution, and serves as a platform for the development of novel models that expand on this one. 
+This is a **repository of the code created by Gaston L. Castillo Moro (ORCiD:0009-0008-7788-6643)**, as part of Tobares et. al. (2025). Its aim is to provide a **readily-accessible tool** for researchers, even for those who may not be well-versed in coding, to apply the mechanistic model in Lind et. al. (2019), straightforwardly to their objects of study with **basic Python knowledge**, with small corrections done as part of this work. This is done in the spirit of spreading and **showcasing the potential of mechanistic models** for investigations on genomic architecture and predictability of adaptation/evolution, and serves as a platform for the development of novel models that expand on this one. 
 
 Usage
 ------
